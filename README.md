@@ -14,6 +14,6 @@ vivo IQoo 解锁root攻略
 [百度网盘](https://pan.baidu.com/s/1Ojl8nWLMTy0hGt9-OIg_FQ?dp-logid=16881900732097680002&pwd=6666#/home/%2F/%2F)
 提取码：6666
 
-[我的服务器]()
+[我的服务器](https://mc.codegang.top/file/other_user/2265514616/temp/vi_bl_root.zip)
 ###### 提示：我的服务器 下载可能提示404，多刷新几次就行了，CDN问题
 
