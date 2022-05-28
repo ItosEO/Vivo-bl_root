@@ -10,7 +10,8 @@ vivo IQoo 解锁root攻略
 
 详细教程在文件里有个Excel文件打开来看就行
 
-链接：[百度网盘](https://pan.baidu.com/s/1Ojl8nWLMTy0hGt9-OIg_FQ?dp-logid=16881900732097680002&pwd=6666#/home/%2F/%2F)
-    [我的服务器]()
-    ######提示：我的服务器 下载可能提示404，多刷新几次就行了，CDN问题
+链接：
+[百度网盘](https://pan.baidu.com/s/1Ojl8nWLMTy0hGt9-OIg_FQ?dp-logid=16881900732097680002&pwd=6666#/home/%2F/%2F)
+[我的服务器]()
+######提示：我的服务器 下载可能提示404，多刷新几次就行了，CDN问题
 提取码：6666
