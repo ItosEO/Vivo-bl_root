@@ -15,5 +15,6 @@ vivo IQoo 解锁root攻略
 提取码：6666
 
 [我的服务器](https://mc.codegang.top/file/other_user/2265514616/temp/vi_bl_root.zip)
+<https://mc.codegang.top/file/other_user/2265514616/temp/vi_bl_root.zip>
 ###### 提示：我的服务器 下载可能提示404，多刷新几次就行了，CDN问题
 
